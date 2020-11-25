@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "pencil-assignment"
+  "defaultProject": "pencil-assignment",
+  "cli": {
+    "analytics": "a8c53160-c83f-4ce3-b22a-8de9530fcb7d"
+  }
 }
